@@ -1,5 +1,5 @@
 import random
- 
+ #Juego creado por [Tu Nombre] - Repaso de Git 
 def jugar():
     print(" --- ¡Adivina el Número! --- ")
     numero_secreto = random.randint(1, 10)
@@ -23,4 +23,4 @@ def jugar():
  
 if __name__=="__main__":
     jugar()
- 
+ # ... resto del código ... 
